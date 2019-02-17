@@ -1,9 +1,3 @@
-/*
-(8 puncte) Program care primeste ca argumente in linia de comanda doua
- directoare d1 si d2 (d1 exista, d2 nu) si copiaza recursiv toata
- arborescenta cu originea in d1 intr-o arborescenta cu originea in d2
- (intre cele doua arborescente difera doar numele directorului origine).
-*/
 #include<stdio.h>
 #include <stdlib.h>
 #include<sys/stat.h>
